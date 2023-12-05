@@ -10,13 +10,24 @@ Dans chaque projet, vous trouverez un fichier md vous présentant le projet, ses
 
 ## Rapide présentation 
 ```javascript
-let Helene { 
+let Helene {
+
  age : 32,
  town : "St Amand les Eaux (59)", 
- kid : 1,
- personnality : [enthousiaste, curieuse, adaptable, autodidacte]
- 
- }
+ languages : [
+    "javascript",
+    "node",
+    "EJS",
+    "HTML",
+    "CSS"
+],
+ personnality : [
+    "enthousiaste",
+    "curieuse",
+    "adaptable",
+    "autodidacte"
+]
+}
 ```
 
 ## Moins rapide présentation 
@@ -29,7 +40,7 @@ Wordpress, SEO/SEA, social média sont devenus mes terrains de jeux de prédilec
 De nature curieuse et aimant comprendre et mettre les mains dans "le dur", je me forme en autodidacte sur les langages de programmation : HTML, CSS, Javascript pour commencer, avant de m'intéresser aux framework type React JS & Angular 🤓
 
 ### Vie perso 
-Au niveau de ma vie perso, je suis mariée et maman d'un petit garçon de 2 ans. Sur mon temps libre, je fais du sport aérien et je suis présidente d'une association de danse. Je suis une consommatrice notoire de vidéo de live Code et de podcast. 
+Au niveau de ma vie perso, je suis mariée et maman d'un petit garçon de 2 ans. Sur mon temps libre, je fais du sport aérien et je suis présidente d'une association de danse. Je suis une consommatrice notoire de vidéos de live Code et de podcast. 
 
 ## What I'm looking for 🎵
 De novembre 2022 à avril 2023, je suis en formation fullstack Javascript chez o'Clock. Cette formation, entièrement en téléprésentiel, me permettra d'obtenir le titre professionnel de niveau 5 Développeur Web et Web mobile. 
