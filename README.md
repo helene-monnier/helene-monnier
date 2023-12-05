@@ -22,12 +22,18 @@ let Helene {
 ## Moins rapide présentation 
 Je suis actuellement en reconversion professionnelle dans le développement web et mobile. 
 
+### Vie pro
 J'ai été conseillère formatrice en création d'entreprise de 2014 à 2023. Chez BGE Hauts de France, j'ai accompagné, conseillé et formé des porteurs de projet et des chefs d'entreprise dans toutes les étapes de la création et du développement de leur entreprise 🦸🏻
 Au fil des rencontres et des intérêts, je me suis spécialisée dans l'accompagnement des entrepreneurs dans leur transformation numérique. 
 Wordpress, SEO/SEA, social média sont devenus mes terrains de jeux de prédilection 👩‍💻
 De nature curieuse et aimant comprendre et mettre les mains dans "le dur", je me forme en autodidacte sur les langages de programmation : HTML, CSS, Javascript pour commencer, avant de m'intéresser aux framework type React JS & Angular 🤓
 
+### Vie perso 
 Au niveau de ma vie perso, je suis mariée et maman d'un petit garçon de 2 ans. Sur mon temps libre, je fais du sport aérien et je suis présidente d'une association de danse. Je suis une consommatrice notoire de vidéo de live Code et de podcast. 
+
+## What I'm looking for 🎵
+De novembre 2022 à avril 2023, je suis en formation fullstack Javascript chez o'Clock. Cette formation, entièrement en téléprésentiel, me permettra d'obtenir le titre professionnel de niveau 5 Développeur Web et Web mobile. 
+Je recherche un stage frontend suite à cette formation afin de mettre en oeuvre mes compétences acquises.
 
 ## Find me around the web 
 🙋‍♀️ lien <a href="https://www.linkedin.com/in/helene-monnier/"> LinkedIn </a>
