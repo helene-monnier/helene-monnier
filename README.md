@@ -8,6 +8,8 @@
 Vous voici sur mon GitHub. Vous retrouverez ici des projets que j'ai réalisé, soit à titre personnel (#fun) soit dans le cadre de ma formation O'Clock. 
 Dans chaque projet, vous trouverez un fichier md vous présentant le projet, ses objectifs et les technos utilisées. 
 
+<br>
+
 ## Rapide présentation 
 ```javascript
 let Helene {
@@ -30,6 +32,8 @@ let Helene {
 }
 ```
 
+<br>
+
 ## Moins rapide présentation 
 Je suis actuellement en reconversion professionnelle dans le développement web et mobile. 
 
@@ -40,11 +44,24 @@ Wordpress, SEO/SEA, social média sont devenus mes terrains de jeux de prédilec
 De nature curieuse et aimant comprendre et mettre les mains dans "le dur", je me forme en autodidacte sur les langages de programmation : HTML, CSS, Javascript pour commencer, avant de m'intéresser aux framework type React JS & Angular 🤓
 
 ### Vie perso 
-Au niveau de ma vie perso, je suis mariée et maman d'un petit garçon de 2 ans. Sur mon temps libre, je fais du sport aérien et je suis présidente d'une association de danse. Je suis une consommatrice notoire de vidéos de live Code et de podcast. 
+Au niveau de ma vie perso, je suis mariée et maman d'un petit garçon de 2 ans. Sur mon temps libre, je fais du sport aérien et je suis présidente d'une association de danse. Je suis une consommatrice notoire de vidéos de live Code et de podcasts. 
+
+<br>
+
+> “Je passe mon temps à faire ce que je ne sais pas faire, pour apprendre à le faire” Pablo Picasso
+
+<br>
 
 ## What I'm looking for 🎵
 De novembre 2022 à avril 2023, je suis en formation fullstack Javascript chez o'Clock. Cette formation, entièrement en téléprésentiel, me permettra d'obtenir le titre professionnel de niveau 5 Développeur Web et Web mobile. 
 Je recherche un stage frontend suite à cette formation afin de mettre en oeuvre mes compétences acquises.
+
+<br>
+
+> [!IMPORTANT]
+> Je suis disponible à partir de mai 2024 pour donner vie à vos projets 🙌
+
+<br>
 
 ## Find me around the web 
 🙋‍♀️ lien <a href="https://www.linkedin.com/in/helene-monnier/"> LinkedIn </a>
