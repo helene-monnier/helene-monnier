@@ -1,7 +1,7 @@
 
 
 
-![](https://github.com/helene-monnier/helene-monnier/blob/main/presmd.jpeg)
+![](https://github.com/helene-monnier/helene-monnier/blob/main/banner.png)
 
 # Hi, I'm Hélène 👋 ✨
 
