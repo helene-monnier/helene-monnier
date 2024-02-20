@@ -16,10 +16,12 @@ let Helene {
 
  age : 32,
  town : "St Amand les Eaux (59)", 
- languages : [
+ technos : [
     "javascript",
-    "node",
+    "React",
+    "NodeJs",
     "EJS",
+    "TypeScript",
     "HTML",
     "CSS"
 ],
@@ -53,8 +55,8 @@ Au niveau de ma vie perso, je suis mariée et maman d'un petit garçon de 2 ans.
 <br>
 
 ## What I'm looking for 🎵
-De novembre 2022 à avril 2023, je suis en formation fullstack Javascript chez o'Clock. Cette formation, entièrement en téléprésentiel, me permettra d'obtenir le titre professionnel de niveau 5 Développeur Web et Web mobile. 
-Je recherche un stage frontend suite à cette formation afin de mettre en oeuvre mes compétences acquises.
+De novembre 2022 à avril 2023, je suis en formation fullstack Javascript chez o'Clock. Cette formation, entièrement en téléprésentiel, me permettra d'obtenir le titre professionnel de niveau 5 Développeur Web et Web mobile (niveau bac+2). 
+A partir d'octobre 2024, je me lance dans la formation Concepteur et Développeur d'Application (niveau bac +4), pour laquelle je recherche un contrat de professionalisation de 18 mois. 
 
 <br>
 
@@ -64,7 +66,7 @@ Je recherche un stage frontend suite à cette formation afin de mettre en oeuvre
 <br>
 
 ## Find me around the web 
-🙋‍♀️ lien <a href="https://www.linkedin.com/in/helene-monnier/"> LinkedIn </a>
+🙋‍♀️ <a href="https://www.linkedin.com/in/helene-monnier/"> LinkedIn </a>
 
 <!---- 
 👋 Hi, I’m @helene-monnier
